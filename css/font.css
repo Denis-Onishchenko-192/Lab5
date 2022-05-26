@@ -1,0 +1,20 @@
+@font-face 
+{
+	font-family: "ComforterBrush";
+	src: url('../fonts/ttf/ComforterBrush-Regular.ttf');
+}
+h1
+{
+    font-family: "ComforterBrush";
+    font-size: 175px;
+}
+@font-face 
+{
+	font-family: "Kosmilk";
+	src: url('../fonts/ttf/Kosmilk.ttf');
+}
+p
+{
+    font-family: "Kosmilk";
+    font-size: 45px;
+}
